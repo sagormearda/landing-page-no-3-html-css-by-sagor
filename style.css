@@ -1,0 +1,314 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    height: 500px;
+    /* background-color: blue; */
+}
+
+.top-header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(211, 222, 231);
+}
+
+.logo {
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.menu-bar {
+    height: 20px;
+    width: 85%;
+    /* background-color: white; */
+    text-align: right;
+    float: right;
+    padding-top: 30px;
+}
+
+.menu-bar a {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 30px;
+    background-color: lightgrey;
+}
+
+.menu-bar a:hover {
+    background-color: lightpink;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.menu-bar input {
+    padding: 10px;
+    margin-right: 20px;
+    background-color: pink;
+    color: solid black;
+}
+
+.menu-bar input:hover {
+    background-color: lightgreen;
+}
+
+.btm-header {
+    height: 100%;
+    width: 100%;
+    background-color: teal;
+}
+
+.text {
+    width: 25%;
+    height: 100%;
+    /* background-color: aqua; */
+    margin-left: 100px;
+    padding-top: 100px;
+    float: left;
+}
+
+.image {
+    height: 100%;
+    width: 40%;
+    /* background-color: blue; */
+    margin-left: 200px;
+    float: left;
+}
+
+.img-1 {
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.text a {
+    margin-left: 130px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+}
+
+.text a:hover {
+    background-color: aqua;
+    color: solid black;
+}
+
+main {
+    /* background-color: red; */
+    width: 100%;
+}
+
+.main-1 {
+    height: 600px;
+    width: 100%;
+    /* background-color: red; */
+    margin-top: 100px;
+}
+
+.main-2 {
+    height: 300px;
+    width: 500px;
+    /* background-color: aqua; */
+    margin: auto;
+}
+
+.sagor {
+    margin-left: 200px;
+    text-transform: capitalize;
+    font-size: 19px;
+    color: red;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 32px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.p-sagor {
+    padding-top: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.sub-main {
+    /* background-color: blue; */
+    margin-top: 30px;
+    width: 100%;
+}
+
+.icon {
+    height: 260px;
+    width: 20%;
+    /* background-color: lightcoral; */
+    float: left;
+    margin-left: 120px;
+}
+
+.icon:hover {
+    box-shadow: 0px 0px 7px 5px black;
+    background-color: lightcyan;
+}
+
+.icon i {
+    padding-top: 20px;
+    margin-left: 120px;
+    font-size: 32px;
+    color: rgb(4, 0, 255);
+}
+
+.icon h4 {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: capitalize;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.monia {
+    text-align: center;
+    padding-top: 30px;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.rofik {
+    height: 20px;
+    width: 30px;
+    background-color: aqua;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-left: 90px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    border-radius: 30px;
+    color: black;
+}
+
+.rofik:hover {
+    background-color: lightcoral;
+    color: white;
+}
+
+.main-watch {
+    height: 400px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.watch-3 {
+    height: 350px;
+    width: 20%;
+    background-color: lightblue;
+    float: left;
+    margin: 20px;
+    margin-left: 115px;
+    box-shadow: 0px 0px 8px 7px gray;
+}
+
+.watch-3:hover {
+    background-color: lightseagreen;
+    color: black;
+}
+
+.images-sagor {
+    height: 160px;
+    width: 100%;
+}
+
+h5 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.night {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+a {
+    margin-left: 100px;
+    padding: 10px;
+    background-color: lightpink;
+    border-radius: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
+
+footer {
+    background-color: yellowgreen;
+    height: 200px;
+    width: 100%;
+}
+
+.main-footer {
+    height: 160px;
+    width: 500px;
+    /* background-color: white; */
+    padding-top: 20px;
+    margin: auto;
+}
+
+.royal {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+i {
+    margin-left: 70px;
+    padding-top: 30px;
+    font-size: 37px;
+    color: green;
+}
+
+i:hover {
+    color: blue;
+}
+
+.tomato {
+    padding-top: 20px;
+    font-size: small;
+    text-transform: capitalize;
+    font-style: italic;
+}
